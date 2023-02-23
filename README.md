@@ -1,6 +1,6 @@
 # Team-mmr-Bot-Privacy-policy
 
-This privacy policy shall be accepted by the server and its members who use Team mmr Bot#2784 (991719449373720587). This document does not supersede the Developer Terms of Service.
+This privacy policy shall be accepted by the server and its members who use Team mmr Bot#2784 (991719449373720587). This document does not supersede the [Developer Terms of Service](https://discordapp.com/developers/docs/legal).
 
 ### Data sent by command
 
